@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "853174179402",
+    "firebase_url": "https://bookapp-kyierus-default-rtdb.firebaseio.com",
+    "project_id": "bookapp-kyierus",
+    "storage_bucket": "bookapp-kyierus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853174179402:android:ba6aaba85b42ddd9e838b3",
+        "android_client_info": {
+          "package_name": "com.kyierus.helpingbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "853174179402-o8j1gdln8lccunt46p2k1pl5gft64tip.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBryo2EQPtazlg-3GCQKJjzViotMRjvjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "853174179402-o8j1gdln8lccunt46p2k1pl5gft64tip.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

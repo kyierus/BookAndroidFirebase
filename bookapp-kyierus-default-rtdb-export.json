@@ -1,0 +1,56 @@
+{
+  "Classes": [
+    null,
+    {
+      "classLogo": "https://1.bp.blogspot.com/-oLi1Wrl0CzE/Xd__xBquAnI/AAAAAAAABFk/V9WND3XGo_8UgMrBaHJMOg5Zwh80B9i7wCLcBGAsYHQ/s1600/PicsArt_09-08-08.43.10.png",
+      "className": "Class 1",
+      "classTeacher": "Mr. John Doe"
+    },
+    {
+      "className": "Class 2",
+      "classTeacher": "Ms. Jane Smith"
+    },
+    {
+      "className": "Class 3",
+      "classTeacher": "Mr. Michael Johnson"
+    }
+  ],
+  "Subjects": [
+    null,
+    {
+      "classId": 1,
+      "subjectId": 1,
+      "subjectLogo": "https://1.bp.blogspot.com/-oLi1Wrl0CzE/Xd__xBquAnI/AAAAAAAABFk/V9WND3XGo_8UgMrBaHJMOg5Zwh80B9i7wCLcBGAsYHQ/s1600/PicsArt_09-08-08.43.10.png",
+      "subjectName": "Mathematics"
+    },
+    {
+      "classId": 2,
+      "subjectName": "Science"
+    },
+    {
+      "classId": 3,
+      "subjectName": "English"
+    }
+  ],
+  "Topics": [
+    null,
+    {
+      "classId": 1,
+      "subjectId": 1,
+      "topicName": "Algebra",
+      "topicPdf": "https://ncert.nic.in/textbook/pdf/hemh101.pdf"
+    },
+    {
+      "classId": 2,
+      "subjectId": 2,
+      "topicName": "Chemical Reactions",
+      "topicUrl": "https://www.bbc.co.uk/bitesize/guides/z78jjty/revision/1"
+    },
+    {
+      "classId": 3,
+      "subjectId": 3,
+      "topicName": "Grammar",
+      "topicUrl": "https://www.grammarbook.com/"
+    }
+  ]
+}
