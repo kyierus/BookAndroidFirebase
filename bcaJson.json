@@ -1,0 +1,372 @@
+{
+  "Classes": [
+    null,
+    {
+      "classLogo": "https://bit.ly/3KsfCtK",
+      "className": "Sem1"
+    },
+    {
+      "classLogo": "https://bit.ly/3GaJPuS",
+      "className": "Sem2"
+    },
+
+    {
+      "classLogo": "https://bit.ly/3GaJPuS",
+      "className": "Sem3"
+    },
+
+    {
+      "classLogo": "https://bit.ly/3GaJPuS",
+      "className": "Sem4"
+    },
+
+    {
+      "classLogo": "https://bit.ly/3GaJPuS",
+      "className": "Sem5"
+    },
+
+    {
+      "classLogo": "https://bit.ly/3GaJPuS",
+      "className": "Sem6"
+    }
+  ],
+  "Subjects": [
+    null,
+    {
+      "classId": 1,
+      "subjectId": 1,
+      "subjectLogo": "https://bit.ly/3G6A3K7",
+      "subjectName": "BCAC101 sem1"
+    },
+    {
+      "classId": 1,
+      "subjectId": 2,
+      "subjectLogo": "https://bit.ly/3G6A3K7",
+      "subjectName": "BCAC102 sem1"
+    },
+    {
+      "classId": 1,
+      "subjectId": 3,
+      "subjectLogo": "https://bit.ly/3G6A3K7",
+      "subjectName": "GE1B20 sem1"
+    },
+
+    {
+      "classId": 1,
+      "subjectId": 4,
+      "subjectLogo": "https://bit.ly/3G6A3K7",
+      "subjectName": "BCAA101"
+    },
+
+
+
+
+
+    {
+      "classId": 2,
+      "subjectId": 5,
+      "subjectLogo": "https://bit.ly/3G6A3K7",
+      "subjectName": "BCAC201 sem2"
+    },
+    {
+      "classId": 2,
+      "subjectId": 6,
+      "subjectLogo": "https://bit.ly/3G6A3K7",
+      "subjectName": "BCAC202 sem2"
+    },
+    {
+      "classId": 2,
+      "subjectId": 3,
+      "subjectLogo": "https://bit.ly/3G6A3K7",
+      "subjectName": "GE2B05 sem2"
+    },
+
+    {
+      "classId": 2,
+      "subjectId": 4,
+      "subjectLogo": "https://bit.ly/3G6A3K7",
+      "subjectName": "BCAA201 sem2"
+    }
+
+  ],
+  "Topics": [
+    null,
+    {
+      "classId": 1,
+      "subjectId": 1,
+      "topicLogo": "https://bit.ly/3G6A3K7",
+      "topicName": "2019",
+      "topicPdf": "https://ncert.nic.in/textbook/pdf/hemh101.pdf"
+    },
+    {
+      "classId": 1,
+      "subjectId": 1,
+      "topicLogo": "https://bit.ly/3G6A3K7",
+      "topicName": "2020",
+      "topicPdf": "https://ncert.nic.in/textbook/pdf/hemh101.pdf"
+    },
+    {
+      "classId": 1,
+      "subjectId": 1,
+      "topicLogo": "https://bit.ly/3G6A3K7",
+      "topicName": "2021",
+      "topicPdf": "https://ncert.nic.in/textbook/pdf/hemh101.pdf"
+    },
+
+    {
+      "classId": 1,
+      "subjectId": 1,
+      "topicLogo": "https://bit.ly/3G6A3K7",
+      "topicName": "2021",
+      "topicPdf": "https://ncert.nic.in/textbook/pdf/hemh101.pdf"
+    },
+
+
+
+
+
+
+
+
+    {
+      "classId": 1,
+      "subjectId": 2,
+      "topicLogo": "https://bit.ly/3G6A3K7",
+      "topicName": "2019",
+      "topicPdf": "https://ncert.nic.in/textbook/pdf/hemh101.pdf"
+    },
+    {
+      "classId": 1,
+      "subjectId": 2,
+      "topicLogo": "https://bit.ly/3G6A3K7",
+      "topicName": "2020",
+      "topicPdf": "https://ncert.nic.in/textbook/pdf/hemh101.pdf"
+    },
+    {
+      "classId": 1,
+      "subjectId": 2,
+      "topicLogo": "https://bit.ly/3G6A3K7",
+      "topicName": "2021",
+      "topicPdf": "https://ncert.nic.in/textbook/pdf/hemh101.pdf"
+    },
+
+    {
+      "classId": 1,
+      "subjectId": 2,
+      "topicLogo": "https://bit.ly/3G6A3K7",
+      "topicName": "2021",
+      "topicPdf": "https://ncert.nic.in/textbook/pdf/hemh101.pdf"
+    },
+
+
+
+
+    {
+      "classId": 1,
+      "subjectId": 3,
+      "topicLogo": "https://bit.ly/3G6A3K7",
+      "topicName": "2019",
+      "topicPdf": "https://ncert.nic.in/textbook/pdf/hemh101.pdf"
+    },
+    {
+      "classId": 1,
+      "subjectId": 3,
+      "topicLogo": "https://bit.ly/3G6A3K7",
+      "topicName": "2020",
+      "topicPdf": "https://ncert.nic.in/textbook/pdf/hemh101.pdf"
+    },
+    {
+      "classId": 1,
+      "subjectId": 3,
+      "topicLogo": "https://bit.ly/3G6A3K7",
+      "topicName": "2021",
+      "topicPdf": "https://ncert.nic.in/textbook/pdf/hemh101.pdf"
+    },
+
+    {
+      "classId": 1,
+      "subjectId": 3,
+      "topicLogo": "https://bit.ly/3G6A3K7",
+      "topicName": "2021",
+      "topicPdf": "https://ncert.nic.in/textbook/pdf/hemh101.pdf"
+    },
+
+
+
+
+    {
+      "classId": 1,
+      "subjectId": 4,
+      "topicLogo": "https://bit.ly/3G6A3K7",
+      "topicName": "2019",
+      "topicPdf": "https://ncert.nic.in/textbook/pdf/hemh101.pdf"
+    },
+    {
+      "classId": 1,
+      "subjectId": 4,
+      "topicLogo": "https://bit.ly/3G6A3K7",
+      "topicName": "2020",
+      "topicPdf": "https://ncert.nic.in/textbook/pdf/hemh101.pdf"
+    },
+    {
+      "classId": 1,
+      "subjectId": 4,
+      "topicLogo": "https://bit.ly/3G6A3K7",
+      "topicName": "2021",
+      "topicPdf": "https://ncert.nic.in/textbook/pdf/hemh101.pdf"
+    },
+
+    {
+      "classId": 1,
+      "subjectId": 4,
+      "topicLogo": "https://bit.ly/3G6A3K7",
+      "topicName": "2021",
+      "topicPdf": "https://ncert.nic.in/textbook/pdf/hemh101.pdf"
+    },
+
+
+
+  
+      {
+        "classId": 2,
+        "subjectId": 5,
+        "topicLogo": "https://bit.ly/3G6A3K7",
+        "topicName": "2019",
+        "topicPdf": "https://ncert.nic.in/textbook/pdf/hemh101.pdf"
+      },
+      {
+        "classId": 2,
+        "subjectId": 5,
+        "topicLogo": "https://bit.ly/3G6A3K7",
+        "topicName": "2020",
+        "topicPdf": "https://ncert.nic.in/textbook/pdf/hemh101.pdf"
+      },
+      {
+        "classId": 2,
+        "subjectId": 5,
+        "topicLogo": "https://bit.ly/3G6A3K7",
+        "topicName": "2021",
+        "topicPdf": "https://ncert.nic.in/textbook/pdf/hemh101.pdf"
+      },
+  
+      {
+        "classId": 2,
+        "subjectId": 5,
+        "topicLogo": "https://bit.ly/3G6A3K7",
+        "topicName": "2021",
+        "topicPdf": "https://ncert.nic.in/textbook/pdf/hemh101.pdf"
+      },
+  
+  
+  
+  
+  
+  
+  
+  
+      {
+        "classId": 2,
+        "subjectId": 6,
+        "topicLogo": "https://bit.ly/3G6A3K7",
+        "topicName": "2019",
+        "topicPdf": "https://ncert.nic.in/textbook/pdf/hemh101.pdf"
+      },
+      {
+        "classId": 2,
+        "subjectId": 6,
+        "topicLogo": "https://bit.ly/3G6A3K7",
+        "topicName": "2020",
+        "topicPdf": "https://ncert.nic.in/textbook/pdf/hemh101.pdf"
+      },
+      {
+        "classId": 2,
+        "subjectId": 6,
+        "topicLogo": "https://bit.ly/3G6A3K7",
+        "topicName": "2021",
+        "topicPdf": "https://ncert.nic.in/textbook/pdf/hemh101.pdf"
+      },
+  
+      {
+        "classId": 2,
+        "subjectId": 6,
+        "topicLogo": "https://bit.ly/3G6A3K7",
+        "topicName": "2021",
+        "topicPdf": "https://ncert.nic.in/textbook/pdf/hemh101.pdf"
+      },
+  
+
+
+      
+  
+  
+      {
+        "classId": 2,
+        "subjectId": 7,
+        "topicLogo": "https://bit.ly/3G6A3K7",
+        "topicName": "2019",
+        "topicPdf": "https://ncert.nic.in/textbook/pdf/hemh101.pdf"
+      },
+      {
+        "classId": 2,
+        "subjectId": 7,
+        "topicLogo": "https://bit.ly/3G6A3K7",
+        "topicName": "2020",
+        "topicPdf": "https://ncert.nic.in/textbook/pdf/hemh101.pdf"
+      },
+      {
+        "classId": 2,
+        "subjectId": 7,
+        "topicLogo": "https://bit.ly/3G6A3K7",
+        "topicName": "2021",
+        "topicPdf": "https://ncert.nic.in/textbook/pdf/hemh101.pdf"
+      },
+  
+      {
+        "classId": 2,
+        "subjectId": 7,
+        "topicLogo": "https://bit.ly/3G6A3K7",
+        "topicName": "2021",
+        "topicPdf": "https://ncert.nic.in/textbook/pdf/hemh101.pdf"
+      },
+
+
+
+
+
+      {
+        "classId": 2,
+        "subjectId": 8,
+        "topicLogo": "https://bit.ly/3G6A3K7",
+        "topicName": "2019",
+        "topicPdf": "https://ncert.nic.in/textbook/pdf/hemh101.pdf"
+      },
+      {
+        "classId": 2,
+        "subjectId": 8,
+        "topicLogo": "https://bit.ly/3G6A3K7",
+        "topicName": "2020",
+        "topicPdf": "https://ncert.nic.in/textbook/pdf/hemh101.pdf"
+      },
+      {
+        "classId": 2,
+        "subjectId": 8,
+        "topicLogo": "https://bit.ly/3G6A3K7",
+        "topicName": "2021",
+        "topicPdf": "https://ncert.nic.in/textbook/pdf/hemh101.pdf"
+      },
+  
+      {
+        "classId": 2,
+        "subjectId": 8,
+        "topicLogo": "https://bit.ly/3G6A3K7",
+        "topicName": "2021",
+        "topicPdf": "https://ncert.nic.in/textbook/pdf/hemh101.pdf"
+      }
+
+
+
+
+
+
+  ]
+}
