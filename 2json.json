@@ -1,0 +1,65 @@
+{
+  "Classes": [
+    null,
+    {
+      "classLogo": "https://bit.ly/3KsfCtK",
+      "className": "FOUNDATIONS-OF-POLITICAL-SCIENCE-NC",
+      "classTeacher": "Mr. John Doe"
+    },
+    {
+      "classLogo": "https://bit.ly/3GaJPuS",
+      "className": "REPRESENTATIVE-INDIAN-POLITICAL-THINKERS-NC",
+      "classTeacher": "Ms. Jane Smith"
+    },
+    {
+      "classLogo": "https://bit.ly/3ZAY9n1",
+      "className": "GENERAL-ENGLISH",
+      "classTeacher": "Mr. Michael Johnson"
+    }
+  ],
+  "Subjects": [
+    null,
+    {
+      "classId": 1,
+      "subjectId": 1,
+      "subjectLogo": "https://bit.ly/3KsfCtK",
+      "subjectName": "Previous year Question Solved"
+    },
+    {
+      "classId": 2,
+      "subjectId": 2,
+      "subjectLogo": "https://bit.ly/3GaJPuS",
+      "subjectName": "Previous Years Questions Solved"
+    },
+    {
+      "classId": 3,
+      "subjectId": 3,
+      "subjectLogo": "https://1.bp.blogspot.com/-oLi1Wrl0CzE/Xd__xBquAnI/AAAAAAAABFk/V9WND3XGo_8UgMrBaHJMOg5Zwh80B9i7wCLcBGAsYHQ/s1600/PicsArt_09-08-08.43.10.png",
+      "subjectName": "English"
+    }
+  ],
+  "Topics": [
+    null,
+    {
+      "classId": 1,
+      "subjectId": 1,
+      "topicLogo": "https://bit.ly/3KsfCtK",
+      "topicName": "2019 FOUNDATIONS-OF-POLITICAL-SCIENCE-NC",
+      "topicPdf": "https://ncert.nic.in/textbook/pdf/hemh101.pdf"
+    },
+    {
+      "classId": 2,
+      "subjectId": 2,
+      "topicLogo": "https://bit.ly/3GaJPuS",
+      "topicName": "Coming Soon",
+      "topicPdf": "https://ncert.nic.in/textbook/pdf/hemh101.pdf"
+    },
+    {
+      "classId": 3,
+      "subjectId": 3,
+      "topicLogo": "https://1.bp.blogspot.com/-oLi1Wrl0CzE/Xd__xBquAnI/AAAAAAAABFk/V9WND3XGo_8UgMrBaHJMOg5Zwh80B9i7wCLcBGAsYHQ/s1600/PicsArt_09-08-08.43.10.png",
+      "topicName": "Grammar",
+      "topicPdf": "https://ncert.nic.in/textbook/pdf/hemh101.pdf"
+    }
+  ]
+}
